@@ -1,0 +1,14 @@
+.btn{
+    margin: 50px auto;
+}
+body{
+    width: 400px;
+    height: 200px;
+    margin: 30px auto;
+}
+.form{
+    background: khaki;
+}
+.form-control{
+    background: hotpink;
+}
